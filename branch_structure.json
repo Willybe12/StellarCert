@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-95-certificate-verificationcode-and-expiresat-are",
+    "fix/issue-97-debounced-auto-verify-fires-a-public-api-call",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-95-certificate-verificationcode-and-expiresat-are": "main",
+    "fix/issue-97-debounced-auto-verify-fires-a-public-api-call": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-95-certificate-verificationcode-and-expiresat-are",
+    "fix/issue-97-debounced-auto-verify-fires-a-public-api-call",
+    "origin"
+  ]
+}
